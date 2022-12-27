@@ -2,7 +2,7 @@ export function Footer() {
   return (
     <>
       <footer align="right">
-        2022 &copy; Made while bored by <a href="https://reaper.im">Reaper</a>
+        2022 &copy; Made by <a href="https://abclinks.vercel.app">uvacoder</a>
       </footer>
     </>
   );
